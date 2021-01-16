@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/KMINO_FRONTEND/static/css/main.b881e8e2.chunk.css",
+    "main.js": "/KMINO_FRONTEND/static/js/main.8846ce4c.chunk.js",
+    "main.js.map": "/KMINO_FRONTEND/static/js/main.8846ce4c.chunk.js.map",
+    "runtime-main.js": "/KMINO_FRONTEND/static/js/runtime-main.7ce1c073.js",
+    "runtime-main.js.map": "/KMINO_FRONTEND/static/js/runtime-main.7ce1c073.js.map",
+    "static/css/2.6a46f5ef.chunk.css": "/KMINO_FRONTEND/static/css/2.6a46f5ef.chunk.css",
+    "static/js/2.ccba3594.chunk.js": "/KMINO_FRONTEND/static/js/2.ccba3594.chunk.js",
+    "static/js/2.ccba3594.chunk.js.map": "/KMINO_FRONTEND/static/js/2.ccba3594.chunk.js.map",
+    "index.html": "/KMINO_FRONTEND/index.html",
+    "precache-manifest.c7b1560f9a0229a73955a6bcbd4d405e.js": "/KMINO_FRONTEND/precache-manifest.c7b1560f9a0229a73955a6bcbd4d405e.js",
+    "service-worker.js": "/KMINO_FRONTEND/service-worker.js",
+    "static/css/2.6a46f5ef.chunk.css.map": "/KMINO_FRONTEND/static/css/2.6a46f5ef.chunk.css.map",
+    "static/css/main.b881e8e2.chunk.css.map": "/KMINO_FRONTEND/static/css/main.b881e8e2.chunk.css.map",
+    "static/media/plantilla_destinos.csv": "/KMINO_FRONTEND/static/media/plantilla_destinos.65ae4bca.csv",
+    "static/media/plantilla_fleet.csv": "/KMINO_FRONTEND/static/media/plantilla_fleet.1a7e27e9.csv",
+    "static/media/venue_location_icon.svg": "/KMINO_FRONTEND/static/media/venue_location_icon.bd6f36a3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ce1c073.js",
+    "static/css/2.6a46f5ef.chunk.css",
+    "static/js/2.ccba3594.chunk.js",
+    "static/css/main.b881e8e2.chunk.css",
+    "static/js/main.8846ce4c.chunk.js"
+  ]
+}

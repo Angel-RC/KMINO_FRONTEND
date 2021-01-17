@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f795d8a416b096e785322670c08a5d1f",
+    "revision": "f02674ee96a87943cf4c970674ce2af6",
     "url": "/KMINO_FRONTEND/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/KMINO_FRONTEND/static/css/2.6a46f5ef.chunk.css"
   },
   {
-    "revision": "5ddc3430a839549354bb",
+    "revision": "bc17cea5bd726dad4b5e",
     "url": "/KMINO_FRONTEND/static/css/main.b881e8e2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/KMINO_FRONTEND/static/js/2.ccba3594.chunk.js"
   },
   {
-    "revision": "5ddc3430a839549354bb",
-    "url": "/KMINO_FRONTEND/static/js/main.8846ce4c.chunk.js"
+    "revision": "bc17cea5bd726dad4b5e",
+    "url": "/KMINO_FRONTEND/static/js/main.993878f0.chunk.js"
   },
   {
     "revision": "20e954492aa7183f4fd2",

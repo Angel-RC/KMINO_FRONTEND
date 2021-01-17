@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/KMINO_FRONTEND/precache-manifest.c7b1560f9a0229a73955a6bcbd4d405e.js"
+  "/KMINO_FRONTEND/precache-manifest.5cd96add1858d304d1551fa5560478ac.js"
 );
 
 self.addEventListener('message', (event) => {
